@@ -1,0 +1,61 @@
+.container
+{
+	background-color: grey;
+	background: responsive
+	
+}
+/*orodna vrstica*/
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+input
+{
+	float: right;
+	text-align: center;
+	margin: 14px 16px;
+	display: block;
+}
+li 
+{
+    float: right;
+}
+li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover 
+{
+    background-color: #111;
+}
+/*konec orodne vrstice*/
+.naslov1
+{
+	text-align: center;
+	color: white;
+}
+.meni_slike
+{
+	display: inline-block;
+	font-family: Verdana;
+	font-size: 25px;
+	max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+}
+	
+.tabela-urnik
+{
+	border: 1px black;
+	width :60%;
+	
+}
+
